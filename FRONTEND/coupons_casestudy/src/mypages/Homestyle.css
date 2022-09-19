@@ -1,0 +1,26 @@
+.homedesign{
+    margin-top: 0px;
+    background-image: 
+    url(
+    "../pics/background.jpeg");  
+    /* background-repeat:repeat;   */
+    background-size: 100% 100%;
+    font-size:50px;
+    min-height: 660px;
+    min-width: 1000px;
+    height:300px;
+}
+.tabledesign
+{
+    font-size: medium;
+    font-weight: bold;
+    background-color: rgb(205, 157, 91);
+}
+table tr td{
+    border: 2px solid beige;
+    padding: 15px;
+}
+table tr
+{
+    border: 2px solid beige;
+}

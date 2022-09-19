@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;movie-catalog-services/src/main/resources/bootstrap.yml&apos; to &apos;catalog.yml&apos;" description="Rename resource &apos;bootstrap.yml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/bootstrap.yml" name="catalog.yml" stamp="1660854952026" updateReferences="true"/>
+</session>

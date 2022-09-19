@@ -1,0 +1,6 @@
+server.port=8080
+spring.data.mongodb.uri=mongodb+srv://db_megha:1234@cluster0.svx07rr.mongodb.net/SIGNIN-UP?retryWrites=true&w=majority
+SIGNIN-UP.app.jwtSecret= bezKoderSecretKey
+SIGNIN-UP.app.jwtExpirationMs= 86400000
+
+spring.application.name=Login_Registration

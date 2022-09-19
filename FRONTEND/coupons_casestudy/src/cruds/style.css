@@ -1,0 +1,231 @@
+
+#btn {
+  color: black;
+  margin-left:900px;
+  text-align: center;
+  background-color: rgb(141, 85, 30);
+  width: 200px;
+}
+
+
+
+#btnc {
+  color: #616060;
+  margin-left: 700px;
+  background-color: #b2f4dd;
+  width: 100px;
+  height: 50px;
+  font-size: 15px;
+}
+.form-control {
+  width: auto;
+}
+
+.button1 {
+  margin-top: 120px;
+  margin-left: 350px;
+  color: #000000;
+  background-color: rgb(192, 188, 188);
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button2 {
+  margin-left: 350px;
+  color: #000000;
+  background-color: rgb(153, 117, 117);
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button3 {
+  margin-bottom: 30px;
+  margin-left: 350px;
+  color: #000000;
+  background-color: rgba(175, 183, 225, 0.9);
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.row {
+  justify-content: medium;
+}
+#uprod {
+  background-color: #4d982f;
+  color: rgb(0, 0, 0);
+  margin-right: 50px;
+  font-family: "Calibri";
+  font-weight: bold;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-left: 40px;
+  border-radius:5px;
+  
+}
+#dprod {
+  background-color: #d10c51;
+  color: rgb(0, 0, 0);
+  margin-right: 30px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-weight: bold;
+  font-family: "calibri";
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius:5px;
+  
+}
+
+#aprod {
+  background-color: #5777cd;
+  font-family: calibri;
+  font-weight: bold;
+}
+#tabp {
+  margin-bottom: 190px;
+}
+
+.prhead {
+  text-align: center;
+}
+.prsub {
+  margin-left: 415px;
+}
+#price {
+  margin-left: 95px;
+}
+#pname {
+  margin-left: 95px;
+}
+#svep {
+  /* margin-left: 190px;
+  width: 100px;
+  background-color: #f0d7bf;
+  font-size: 17px;
+  font-family: "calibri"; */
+  font-size: 17px;
+  font-family: "calibri";
+  margin-left: 155px;
+  width: 160px;
+  background-color: #afdeeb;
+  color: black;
+}
+#bck {
+  margin-left: 610px;
+}
+#sbar {
+  width: 400px;
+}
+.sbtn {
+  width: 80px;
+}
+#webpro {
+  background-color: rgb(250, 183, 170);
+  border-right-width: medium;
+
+  width: 25%;
+}
+.btn1 {
+  background-color: #edbfbf;
+  color: black;
+  font-size: 17px;
+  font-family: "calibri";
+
+  margin-left: 50px;
+  width: 160px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.ab {
+  text-align: center;
+}
+.form1 {
+  margin-left: 70px;
+  margin-top: 30px;
+  background-color: #b3939d;
+  margin-right: 10px;
+  height:550px;
+}
+.form-group {
+  padding-bottom: 20px;
+  margin-left:80px;
+  margin-right: 80px;
+}
+
+#ordp {
+  margin-left: 86px;
+}
+
+#ab1 {
+  padding-top: 30px;
+}
+.btn2 {
+  font-size: 17px;
+  font-family: "calibri";
+  margin-left: 155px;
+  width: 160px;
+  background-color: #afdeeb;
+  color: black;
+  border-radius:5px;
+}
+.logo {
+  font-size: 28px;
+  font-family: "Brush Script MT";
+}
+.btn3 {
+  font-size: 17px;
+  font-family: "calibri";
+  margin-left: 50px;
+  width: 160px;
+  background-color: #b8afeb;
+  color: black;
+}
+
+
+.butt1 {
+  margin-left: 350px;
+  color: #000000;
+  background-color: rgb(90, 202, 127);
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.74),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 120px;
+}
+
+.butt2 {
+  margin-bottom: 30px;
+  margin-left: 350px;
+  color: #000000;
+  background-color: rgba(170, 165, 129, 0.9);
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.74),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+.bckc {
+  font-size: 17px;
+  font-family: "calibri";
+  margin-left: 20px;
+  width: 200px;
+  background-color: #26bd53;
+  color: black;
+}
+.AddCoupon{
+  
+  background-image: 
+  url(
+  "../pics/pngtree-abstract-3d-gradient-wipe-banner-background-image_397756.jpg");  
+  /* background-repeat:repeat;   */
+  background-size: 100% 100%;
+  
+  min-height:700px;
+
+}
+.profile{
+  background-image: 
+  url(
+  "../pics/how-to-create-and-define-a-user-persona.jpg");  
+  /* background-repeat:repeat;   */
+  background-size: 100% 100%;
+  
+  min-height:700px;
+
+}

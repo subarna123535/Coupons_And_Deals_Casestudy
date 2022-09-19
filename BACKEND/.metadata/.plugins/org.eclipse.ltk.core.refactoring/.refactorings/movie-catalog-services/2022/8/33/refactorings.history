@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.moviecatalogservice&apos; to &apos;com.moviecatalogservice.main&apos;&#x0D;&#x0A;- Original project: &apos;movie-catalog-services&apos;&#x0D;&#x0A;- Original element: &apos;movie-catalog-services/src/main/java/com.moviecatalogservice&apos;&#x0D;&#x0A;- Renamed element: &apos;movie-catalog-services/src/main/java/com.moviecatalogservice.main&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.moviecatalogservice&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.moviecatalogservice" name="com.moviecatalogservice.main" qualified="false" references="true" stamp="1660276827685" textual="false" version="1.0"/>
+</session>

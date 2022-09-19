@@ -1,0 +1,4 @@
+server.port=8000
+spring.data.mongodb.uri=mongodb+srv://db_megha:1234@cluster0.svx07rr.mongodb.net/db01?retryWrites=true&w=majority
+spring.app.name=customer_service
+spring.mvc.pathmatch.matching-strategy= ANT_PATH_MATCHER

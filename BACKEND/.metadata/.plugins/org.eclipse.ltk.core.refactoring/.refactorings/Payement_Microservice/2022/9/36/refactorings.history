@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Payement_Microservice/src/main/resources/templates/HOME.html&apos; to &apos;home.html&apos;" description="Rename resource &apos;HOME.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/HOME.html" name="home.html" stamp="1662216116367" updateReferences="true"/>
+</session>

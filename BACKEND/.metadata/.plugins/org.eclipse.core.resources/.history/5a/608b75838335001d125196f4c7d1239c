@@ -1,0 +1,19 @@
+spring.application.name=SPRING-API-GATEWAY
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka
+server.port = 8082
+spring.profiles.active= test
+eureka-client-service-url.defaultzone = http://localhost:8761/eureka
+spring.cloud.gateway.discovery.locator.lower-case-service-id=true
+spring.cloud.gateway.discovery.locator.enabled=true
+spring.cloud.gateway.routes[0].id=Customer_Microservice
+spring.cloud.gateway.routes[0].uri=lb://Customer_Microservice
+spring.cloud.gateway.routes[0].predicates[0]=Path=/customer/**
+
+spring.cloud.gateway.routes[1].id=Company_Microservice
+spring.cloud.gateway.routes[1].uri=lb://Company_Microservice
+spring.cloud.gateway.routes[1].predicates[1]=Path=/cnd/*
+
+
+spring.cloud.gateway.routes[2].id=ADMIN_MICROSERVICE
+spring.cloud.gateway.routes[2].uri=lb://ADMIN_MICROSERVICE
+spring.cloud.gateway.routes[2].predicates[2]=Path=/Admin/**
